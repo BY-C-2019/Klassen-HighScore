@@ -97,6 +97,4 @@ Med följande kodstycke kan du testa din klass:
     
    }
    
- }```
-
-Lycka till! Kom ihåg att den här uppgiften är mer komplex än tidigare men bra träning på många moment samtidigt :)
+ }
