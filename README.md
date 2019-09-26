@@ -70,13 +70,12 @@ Klassen ska också innehålla följande osynliga (private) metod:
 
 Med följande kodstycke kan du testa din klass:
 
-´´´class Program
+```class Program
 {
   static void Main(string[] args)
   {
   
     // Skapa highscoreklassen, max 5 i listan
-    
     HighScore hs = new HighScore();
     
     // Fyll på med element
@@ -98,6 +97,6 @@ Med följande kodstycke kan du testa din klass:
     
    }
    
- }´´´
+ }```
 
 Lycka till! Kom ihåg att den här uppgiften är mer komplex än tidigare men bra träning på många moment samtidigt :)
